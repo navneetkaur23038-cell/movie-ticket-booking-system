@@ -1,4 +1,4 @@
-# movie-ticket-tracking-system
+# movie-ticket-booking-system
 
 A Python-based console application for booking movie tickets, selecting seats, managing bookings, and storing data using CSV file handling. Includes search, cancellation, validation, and a clean professional terminal interface.
 The application uses CSV file handling to permanently store movie and booking information, allowing data to remain available even after the program is closed. It also includes input validation and exception handling to make the system reliable and user-friendly.
